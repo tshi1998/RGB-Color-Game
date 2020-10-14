@@ -1,2 +1,2 @@
 # RGB-Color-Game
-Simple JavaScript demo
+Simple (vanilla) JavaScript demo
